@@ -4,12 +4,12 @@ README
 What is symfony-installer?
 --------------------------
 
-symfony-installer is a Docker image to use [Symfony Installer](http://symfony.com/download)
+symfony-installer is a Docker image to use [Symfony Installer](https://github.com/symfony/symfony-installer)
 
 Running symfony-installer
 -------------------------
 
-This is the same commands from Symfony Installer.
+This is the same commands from [Symfony Installer](https://github.com/symfony/symfony-installer).
 
 Just replace `symfony` with  
 `docker run --rm --interactive --tty --user $UID --volume $PWD:/code --workdir /code roukmoute/symfony-installer`

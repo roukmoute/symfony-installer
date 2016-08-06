@@ -14,6 +14,8 @@ This is the same commands from Symfony Installer.
 Just replace `symfony` with  
 `docker run --rm --interactive --tty --user $UID --volume $PWD:/code --workdir /code roukmoute/symfony-installer`
 
+You have not needed to do a `self-update`, it is automatic.
+
 Example
 -------
 

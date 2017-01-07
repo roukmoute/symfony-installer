@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/version/roukmoute/symfony-installer.svg)](https://microbadger.com/images/roukmoute/symfony-installer "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/roukmoute/symfony-installer.svg)](https://microbadger.com/images/roukmoute/symfony-installer "Get your own image badge on microbadger.com")
+
 README
 ======
 
